@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Solana ecosystem
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on intro courses on SolHack.com
-- 📫 How to reach me ...
+- 📫 How to reach me --my user name on SolHack is either Dragon or Erika
 
 <!---
 dankmom/dankmom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
